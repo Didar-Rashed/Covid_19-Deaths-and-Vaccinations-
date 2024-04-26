@@ -1,1 +1,1 @@
-# Covid_19-Deaths-and-Vaccinations-
+# Covid_19_SQL_Data_Exploration
